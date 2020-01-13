@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\smartOfficeadmin\\Desktop\\Partner-Smart-Office\\Partner-Smart-Office\\src\\SmartOffice.Models\\SmartOffice.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\smartOfficeadmin\\Desktop\\Partner-Smart-Office\\Partner-Smart-Office\\src\\SmartOffice.Models\\SmartOffice.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\smartOfficeadmin\\Desktop\\Partner-Smart-Office\\Partner-Smart-Office\\src\\SmartOffice.Models\\SmartOffice.Models.csproj",
+        "projectName": "Microsoft.Partner.SmartOffice.Models",
+        "projectPath": "C:\\Users\\smartOfficeadmin\\Desktop\\Partner-Smart-Office\\Partner-Smart-Office\\src\\SmartOffice.Models\\SmartOffice.Models.csproj",
+        "packagesPath": "C:\\Users\\smartOfficeadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\smartOfficeadmin\\Desktop\\Partner-Smart-Office\\Partner-Smart-Office\\src\\SmartOffice.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\smartOfficeadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

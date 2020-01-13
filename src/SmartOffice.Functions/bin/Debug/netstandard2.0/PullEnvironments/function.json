@@ -1,0 +1,16 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-1.0.24",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "timerTrigger",
+      "runOnStartup": true,
+      "schedule": "0 0 9 * * *",
+      "useMonitor": true,
+      "name": "timerInfo"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/Microsoft.Partner.SmartOffice.Functions.dll",
+  "entryPoint": "Microsoft.Partner.SmartOffice.Functions.Environments.PullEnvironmentsAsync"
+}

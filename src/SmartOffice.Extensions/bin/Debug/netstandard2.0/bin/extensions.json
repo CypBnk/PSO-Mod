@@ -1,0 +1,5 @@
+{
+  "extensions":[
+    { "name": "SmartOffice", "typeName":"Microsoft.Partner.SmartOffice.Extensions.SmartOfficeWebJobsStartup, Microsoft.Partner.SmartOffice.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
+  ]
+}

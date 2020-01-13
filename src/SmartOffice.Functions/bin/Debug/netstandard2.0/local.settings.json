@@ -1,0 +1,12 @@
+{
+  "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "KeyVaultEndpoint": "https://vaultuefgzow5mwkz2.vault.azure.net/",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=uefgzow5mwkz2azfunctions;AccountKey=/700ImyuPkon7a+NPHRRdm14gPgOJP8753Bn0upob2kLSziPbkLypfjEGLAlGycCvwluF4XY1RNPdKJok5sIXA==",
+    "CosmosDbEndpoint": "https://uefgzow5mwkz2cosmosdb.documents.azure.com:443/",
+    "CosmosDbAccessKey": "AniULDNARdMmJYrzuQ78bGYevrIYGSmyuaUyUfJxy1dAZpk1zJ6mfmQeJy8fHjvwvaZARzJl2EZMeGpb3B7wLw=="
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-1.0.24",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "queueTrigger",
+      "connection": "StorageConnectionString",
+      "queueName": "utilization",
+      "name": "subscriptionDetail"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/Microsoft.Partner.SmartOffice.Functions.dll",
+  "entryPoint": "Microsoft.Partner.SmartOffice.Functions.Environments.ProcessUsageAsync"
+}
